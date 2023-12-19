@@ -1,0 +1,33 @@
+html{
+	background-color:black;
+}
+
+body{
+
+	color:red;
+	text-align:center;
+}
+
+header{
+	color:red;
+	text-align:center;
+	<font-size:28px;
+}
+
+
+h1{
+	color:red;
+	font-size: 40px;
+}
+a{
+	color:red;
+}
+footer{
+	color:red;
+	text-align:center;
+	font-size:14px;
+}
+h2{
+	color:red;
+	font-size:26px;
+}
